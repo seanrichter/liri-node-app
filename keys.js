@@ -1,4 +1,4 @@
-console.log('this is loaded and working');
+console.log('this is loaded');
 
 var dotenv = require("dotenv").config();
 
