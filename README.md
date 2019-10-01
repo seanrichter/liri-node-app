@@ -9,26 +9,25 @@ Use node to run this program. Use node liri.js then run one of the following com
 * concert-this
 * spotify-this-song
 * movie-this
-* do-what-it-says
 
 When running a command follow it by desired text/search.
 Example: node liri.js movie-this underworld
 
+## concert-this
 When concert-this command is used you will be provided with:
 Name of the venue
 Venue location
 Date of the Event
 
+## spotify-this-song
 When spotify-this-song command is used you will be provided with:
 Artist(s)
 The song's name
 A preview link of the song from Spotify
 The album that the song is from
 If no song is provided then your program will default to "The Sign" by Ace of Base.
-![GitHub Logo](images\spotify this song before.PNG)
-Format: ![Alt Text](url)
 
-
+## movie-this
 When movie-this command is used you will be provided with:
 Title of the movie.
 Year the movie came out.
