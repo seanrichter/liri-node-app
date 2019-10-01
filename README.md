@@ -7,12 +7,12 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 Use node to run this program. Use node liri.js then run one of the following comands, then add search text:
 
-*concert-this
-*spotify-this-song
-*movie-this
-*do-what-it-says
-*When running a command follow it by desired text/search.
-*Example: node liri.js movie-this underworld
+* concert-this
+* spotify-this-song
+* movie-this
+* do-what-it-says
+* When running a command follow it by desired text/search.
+* Example: node liri.js movie-this underworld
 =======
 ## How to use
 
