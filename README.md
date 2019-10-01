@@ -27,6 +27,9 @@ A preview link of the song from Spotify
 The album that the song is from
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20before.PNG?raw=true)
+
 ## movie-this
 When movie-this command is used you will be provided with:
 Title of the movie.
