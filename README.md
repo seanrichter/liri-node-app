@@ -2,7 +2,6 @@
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 
-<<<<<<< HEAD
 #How to use
 
 Use node to run this program. Use node liri.js then run one of the following comands, then add search text:
@@ -13,7 +12,7 @@ Use node to run this program. Use node liri.js then run one of the following com
 * do-what-it-says
 * When running a command follow it by desired text/search.
 * Example: node liri.js movie-this underworld
-=======
+
 ## How to use
 
 Use node to run this program. Use node liri.js then run one of the following comands, then add search text:
@@ -24,7 +23,6 @@ Use node to run this program. Use node liri.js then run one of the following com
 
 When running a command follow it by desired text/search.
 Example: node liri.js movie-this underworld
->>>>>>> cf31351441e781be84c7451c8fea22d4a236f045
 
 ## Concert-This
 When concert-this command is used you will be provided with:
