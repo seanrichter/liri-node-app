@@ -9,20 +9,8 @@ Use node to run this program. Use node liri.js then run one of the following com
 * concert-this
 * spotify-this-song
 * movie-this
-* do-what-it-says
 * When running a command follow it by desired text/search.
-* Example: node liri.js movie-this underworld
-
-## How to use
-
-Use node to run this program. Use node liri.js then run one of the following comands, then add search text:
-
-* concert-this
-* spotify-this-song
-* movie-this
-
-When running a command follow it by desired text/search.
-Example: node liri.js movie-this underworld
+* Example: node liri.js movie-this adrift
 
 ## Concert-This
 When concert-this command is used you will be provided with:
