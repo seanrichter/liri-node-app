@@ -68,5 +68,5 @@ A random.txt file with search for spotify-this-song "I want it that way." This w
 * Bands in Town API
 * OMDB API
 
-# Link to GitHub Repository
+## Link to GitHub Repository
 [GitHub](https://github.com/seanrichter/liri-node-app)
