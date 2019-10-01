@@ -10,7 +10,7 @@ Use node to run this program. Use node liri.js then run one of the following com
 * spotify-this-song
 * movie-this
 * When running a command follow it by desired text/search.
-* Example: node liri.js movie-this adrift
+* Example: node liri.js movie-this *enter text here*
 
 ## Concert-This
 When concert-this command is used you will be provided with:
