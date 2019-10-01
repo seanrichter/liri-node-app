@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri-Node-App
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 
@@ -13,7 +13,7 @@ Use node to run this program. Use node liri.js then run one of the following com
 When running a command follow it by desired text/search.
 Example: node liri.js movie-this underworld
 
-## concert-this
+## Concert-This
 When concert-this command is used you will be provided with:
 Name of the venue
 Venue location
@@ -25,7 +25,7 @@ Date of the Event
 ### After
 ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/concert%20this%20after.PNG?raw=true)
 
-## spotify-this-song
+## Spotify-This-Song
 When spotify-this-song command is used you will be provided with:
 Artist(s)
 The song's name
@@ -39,7 +39,7 @@ If no song is provided then your program will default to "The Sign" by Ace of Ba
 ### After
 ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20after.PNG?raw=true)
 
-## movie-this
+## Movie-This
 When movie-this command is used you will be provided with:
 Title of the movie.
 Year the movie came out.
