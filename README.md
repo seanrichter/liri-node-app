@@ -15,9 +15,9 @@ Example: node liri.js movie-this underworld
 
 ## Concert-This
 When concert-this command is used you will be provided with:
-Name of the venue
-Venue location
-Date of the Event
+1. Name of the venue
+1. Venue location
+1. Date of the Event
 
 ### Before
 ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/concert%20this%20before.PNG?raw=true)
