@@ -27,11 +27,11 @@ When concert-this command is used you will be provided with:
 
 ## Spotify-This-Song
 When spotify-this-song command is used you will be provided with:
-Artist(s)
-The song's name
-A preview link of the song from Spotify
-The album that the song is from
-If no song is provided then your program will default to "The Sign" by Ace of Base.
+1. Artist(s)
+1. The song's name
+1. A preview link of the song from Spotify
+1. The album that the song is from
+1. If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ### Before
 ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20before.PNG?raw=true)
@@ -41,14 +41,14 @@ If no song is provided then your program will default to "The Sign" by Ace of Ba
 
 ## Movie-This
 When movie-this command is used you will be provided with:
-Title of the movie.
-Year the movie came out.
-IMDB Rating of the movie.
-Rotten Tomatoes Rating of the movie.
-Country where the movie was produced.
-Language of the movie.
-Plot of the movie.
-Actors in the movie.
+1. Title of the movie.
+1. Year the movie came out.
+1. IMDB Rating of the movie.
+1. Rotten Tomatoes Rating of the movie.
+1. Country where the movie was produced.
+1. Language of the movie.
+1. Plot of the movie.
+1. Actors in the movie.
 
 ### Before
 ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/move%20this%20before.PNG?raw=true)
