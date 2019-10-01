@@ -28,10 +28,10 @@ The album that the song is from
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ### Before
-Format: ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20before.PNG?raw=true)
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20before.PNG?raw=true)
 
 ### After
-Format: ![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20after.PNG?raw=true)
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/spotify%20this%20song%20after.PNG?raw=true)
 
 ## movie-this
 When movie-this command is used you will be provided with:
