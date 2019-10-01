@@ -19,6 +19,12 @@ Name of the venue
 Venue location
 Date of the Event
 
+### Before
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/concert%20this%20before.PNG?raw=true)
+
+### After
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/concert%20this%20after.PNG?raw=true)
+
 ## spotify-this-song
 When spotify-this-song command is used you will be provided with:
 Artist(s)
