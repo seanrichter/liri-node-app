@@ -41,9 +41,9 @@ When do-what-it-says command:
 
 A random.txt file with search for spotify-this-song "I want it that way." This will give you the spotify results of "I want it that way."
 
-Technologies Used
-JavaScript
-Node.js
-Spotify API
-Bands in Town API
-OMDB API
+## Technologies Used
+* JavaScript
+* Node.js
+* Spotify API
+* Bands in Town API
+* OMDB API
