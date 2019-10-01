@@ -44,6 +44,12 @@ Language of the movie.
 Plot of the movie.
 Actors in the movie.
 
+### Before
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/move%20this%20before.PNG?raw=true)
+
+### After
+![Alt Text](https://github.com/seanrichter/liri-node-app/blob/master/images/movie%20this%20after.PNG?raw=true)
+
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.
 When do-what-it-says command:
 
